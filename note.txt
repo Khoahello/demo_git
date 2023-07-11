@@ -1,0 +1,15 @@
++ setup account
+git config user.name "Khoahello"
+git config user.email "dinhtankhoa2k7@gmail.com"
+
+- git init : Khởi tạo repo local
+- git remote add origin https://github.com/Khoahello/demo_git.git : Liên kết repo local và repo remote
+
++ đẩy code từ local lên romote : 3 bước
+- git add -A : chọn
+- git commit -m "tao ra trang home" : xác nhận và ghi kèm chú thích
+- git push -u origin master : đẩy lần đầu
+- git push : đẩy lần 2 trở đi
+
+- branch : nhánh
+- git checkout -b login : tạo ra nhánh login từ
