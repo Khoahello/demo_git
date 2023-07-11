@@ -20,3 +20,5 @@ git config user.email "dinhtankhoa2k7@gmail.com"
 + Lấy source từ 1 repo
 - git clone url . : clone source vào folder hiện tại
 - git pull : lấy code mới nhất từ remote
+
+-git log : xem danh sách các lệnh đã commit
